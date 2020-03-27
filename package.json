@@ -13,6 +13,9 @@
             "name": "Jeremias Menichelli",
             "email": "jmenichelli@gmail.com",
             "url": "https://jeremenichelli.io"
+        }, {
+            "name": "Joey van IJperen",
+            "email": "joey.vy@gmail.com"
         }
     ],
     "devDependencies": {
@@ -47,7 +50,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/magic-akari/seamless-scroll-polyfill.git"
+        "url": "git+https://github.com/Djowietje/seamless-scroll-polyfill.git"
     },
     "keywords": [
         "smooth",
@@ -57,7 +60,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/magic-akari/seamless-scroll-polyfill/issues"
+        "url": "https://github.com/Djowietje/seamless-scroll-polyfill/issues"
     },
-    "homepage": "https://github.com/magic-akari/seamless-scroll-polyfill"
+    "homepage": "https://github.com/Djowietje/seamless-scroll-polyfill"
 }

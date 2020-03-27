@@ -237,10 +237,6 @@ const parentElement = (element: Element): Element | null => {
 };
 
 export const elementScrollIntoView = (element: Element, options: IScrollIntoViewOptions) => {
-    if (!element.ownerDocument!.documentElement!.contains(element)) {
-        return;
-    }
-
     // On Chrome and Firefox, document.scrollingElement will return the <html> element.
     // Safari, document.scrollingElement will return the <body> element.
     // On Edge, document.scrollingElement will return the <body> element.
